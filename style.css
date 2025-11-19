@@ -50,7 +50,7 @@ p{
 }
 .categoria-vídeos img:hover{
     opacity: 1.0;
-    border: 1px solid white;
+    border: 3px solid white;
 }
 .categoria h2{
     color: blue;
